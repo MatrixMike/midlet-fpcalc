@@ -1,34 +1,7 @@
 /*
  
- * and one or more additional patents or pending patent applications
- * in the U.S. and in other countries.
- *
- * Unpublished - rights reserved under the Copyright Laws of the
- * United States.
- *
- * THIS PRODUCT CONTAINS CONFIDENTIAL INFORMATION AND TRADE SECRETS
- * OF SUN MICROSYSTEMS, INC. USE, DISCLOSURE OR REPRODUCTION IS
- * PROHIBITED WITHOUT THE PRIOR EXPRESS WRITTEN PERMISSION OF SUN
- * MICROSYSTEMS, INC.
- *
- * U.S. Government Rights - Commercial software. Government users are
- * subject to the Sun Microsystems, Inc.
- * standard license agreement and applicable provisions of the FAR and
- * its supplements.Use is subject to license terms.
- * This distribution may include materials developed by third parties.
- *
- * Sun, Sun Microsystems, the Sun logo, Java, Jini and the Java Coffee
- * Cup logo are trademarks or registered trademarks of Sun
- * Microsystems, Inc. in the U.S. and other countries.
- *
- * This product is covered and controlled by U.S. Export Control laws
- * and may be subject to the export or import laws in other countries.
- * Nuclear, missile, chemical biological weapons or nuclear maritime
- * end uses or end users, whether direct or indirect, are strictly
- * prohibited. Export or reexport to countries subject to U.S. embargo
- * or to entities identified on U.S. export exclusion lists, including,
- * but not limited to the denied persons and specially designated
- * nationals lists is strictly prohibited.
+ * VERY simple code for demo and discussion
+ * 19.04.2016 17:31:08
  */
 
 package calculator;
