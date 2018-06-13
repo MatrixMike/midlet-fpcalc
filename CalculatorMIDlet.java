@@ -2,6 +2,7 @@
  
  * VERY simple code for demo and discussion
  * 19.04.2016 17:31:08
+ * revived mini project
  */
 
 package calculator;
